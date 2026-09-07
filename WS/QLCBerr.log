@@ -1,0 +1,30 @@
+
+
+Fatal error: Exception code=C0000005 @ 25/08/2026 15:56:57. Error log file: D:\HUHA_HRM\WS\QLCBerr.log
+	Called from -  login line 0  { system.fxp}
+	Called from -  main line 0  { main.fxp}
+	Called from -  a line 0  { d:\huha_hrm\ws\qlcb.app}
+
+
+Fatal error: Exception code=C0000005 @ 25/08/2026 15:58:01. Error log file: D:\HUHA_HRM\WS\QLCBerr.log
+	Called from -  login line 0  { system.fxp}
+	Called from -  main line 0  { main.fxp}
+	Called from -  a line 0  { d:\huha_hrm\ws\qlcb.app}
+
+
+Fatal error: Exception code=C0000005 @ 25/08/2026 15:58:16. Error log file: D:\HUHA_HRM\WS\QLCBerr.log
+	Called from -  login line 0  { system.fxp}
+	Called from -  main line 0  { main.fxp}
+	Called from -  a line 0  { d:\huha_hrm\ws\qlcb.app}
+
+
+Fatal error: Exception code=C0000005 @ 25/08/2026 15:58:29. Error log file: D:\HUHA_HRM\WS\QLCBerr.log
+	Called from -  login line 0  { system.fxp}
+	Called from -  main line 0  { main.fxp}
+	Called from -  a line 0  { d:\huha_hrm\ws\qlcb.app}
+
+
+Fatal error: Exception code=C0000005 @ 07/09/2026 23:07:32. Error log file: D:\HUHA_HRM\WS\QLCBerr.log
+	Called from -  login line 0  { system.fxp}
+	Called from -  main line 0  { main.fxp}
+	Called from -  a line 0  { d:\huha_hrm\ws\qlcb.app}

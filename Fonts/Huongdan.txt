@@ -1,0 +1,30 @@
+Vietkey 2000
+Beta 3 (build 332)
+
+- Ban da duoc dang ky
+
+* Truoc khi cai dat, xin vui long mo file GIOITHIEU.HTM
+
+**********************
+Copy ba file 
+- vknt.aut
+- vknt.exe
+- vknt.lic
+trong thu muc nay vao mot thu muc tren o cung
+va chay file vknt.exe
+**********************
+- Neu muon tao shortcut tren desktop cho tien chay
+thi mo Vietkey Panel, mo tab Utilities va danh dau chon
+vao muc "Create Vietkey icon on desktop"
+- Neu muon Vietkey ngay sau khi duoc mo se nhay
+xuong nam o System Tray, mo tab Options va chon
+muc "Fast load"
+**********************
+
+* Muon tim hieu ve phan mem nay va cach su dung no, 
+ban dung trinh duyet Web Internet Explorer, Opera, Netscape,... 
+de mo tu file BATDAU.HTM tren dia CD. Cac trang Web su dung
+font VNI (neu chua co font, ban co the nap font co ngay tren CD nay. 
+Thu muc VN_FONTS)
+
+Chuc ban co duoc nhieu thu vi va huu ich khi su dung CD nay.
